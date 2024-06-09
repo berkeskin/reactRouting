@@ -8,13 +8,13 @@ function App() {
 
   return (
     <>
-      <input 
+      {/* <input 
       style={{backgroundColor: "orange", borderRadius: "15px", padding: "1rem,"}}
       type="text" 
       readOnly
       value={name} 
       onChange={e => setName(console.log(e.target.value))} />
-      <div>{name}</div>
+      <div>{name}</div> */}
     </>
   )
     
